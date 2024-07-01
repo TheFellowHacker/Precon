@@ -1,5 +1,5 @@
 
-# About Precon
+# Precon
 
 Precon is a bash script designed to passively discover subdomains for websites using a variety of reconnaissance tools.With Precon, users can effortlessly enumerate subdomains, aiding in cybersecurity assessments and domain management.
 everaging multiple tools such as assetfinder, subfinder, and amass, Precon ensures thorough subdomain enumeration.Users receive instant notifications upon completion of reconnaissance tasks, ensuring timely updates on subdomain discovery progress.
